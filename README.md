@@ -18,32 +18,6 @@ My expertise lies in streamlining office operations, managing IT and facility as
 - Standard Operating Procedures (SOPs)  
 - MS Office & Documentation Tools  
 
----
-
-## 📂 Repository Contents
-
-### 1. `Office_Relocation_Project/`
-A complete documentation of an office shift, including:
-- 📋 Project Plan & Timeline  
-- 💻 IT Setup Checklist  
-- 🧾 Vendor Coordination Notes  
-- 🛠 Design & Setup Layout Plans
-
-### 2. `Expense_Optimization/`
-Documents showcasing how I reduced unnecessary costs:
-- 📊 Before & After Expense Reports  
-- 🔍 Analysis Sheets  
-- 💡 Cost-Cutting Strategy Document  
-- 🏆 Recognition Letter from Management
-
-### 3. `SOPs_and_Templates/`
-Standard templates and SOPs I’ve created:
-- 📝 Visitor & Vendor Management SOPs  
-- 📦 Asset Tracking Template (Excel)  
-- 📅 Event & Meeting Coordination Checklist  
-
----
-
 ## 📈 About Me
 
 I’m a proactive and adaptable professional passionate about building smooth, efficient office systems. My goal is to contribute to workplaces that run with clarity, reliability, and respect for every team member’s time.
